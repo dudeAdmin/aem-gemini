@@ -6,6 +6,10 @@ To use this Google's API key need to be registered in ConfigMgr.
 ![alt text](image.png)
 
 Please see demo here:
-https://storage.googleapis.com/prateek_hub_bucket/AEM-Gemini.mp4
+<video controls>
+  <source src="https://storage.googleapis.com/prateek_hub_bucket/AEM-Gemini.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video
+
 
 Contact me in case of any queries: pratchaudhari@gmail.com
