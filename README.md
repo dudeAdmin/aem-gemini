@@ -10,7 +10,6 @@ https://storage.googleapis.com/prateek_hub_bucket/AEM-Gemini.mp4
 <video width="640" height="320" controls>
   <source src="https://storage.googleapis.com/prateek_hub_bucket/AEM-Gemini.mp4" type="video/mp4">
 </video>
-<iframe width="640" height="360" src="https://storage.googleapis.com/prateek_hub_bucket/AEM-Gemini.mp4" frameborder="0" allowfullscreen></iframe>
 
 To use this Google's API key need to be registered in ConfigMgr.
 ![alt text](image.png)
