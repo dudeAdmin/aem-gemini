@@ -5,10 +5,14 @@ This project uses "gemini-2.5-flash-image" model for image generation purpose.
 Feature:
 <img width="1915" height="975" alt="image" src="https://github.com/user-attachments/assets/e722131d-e067-4ee6-a75f-34fa867af251" />
 
-To use this Google's API key need to be registered in ConfigMgr.
-![alt text](image.png)
-
 Please see demo here:
 https://storage.googleapis.com/prateek_hub_bucket/AEM-Gemini.mp4
+<video width="640" height="320" controls>
+  <source src="https://storage.googleapis.com/prateek_hub_bucket/AEM-Gemini.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+To use this Google's API key need to be registered in ConfigMgr.
+![alt text](image.png)
 
 Contact me in case of any queries: pratchaudhari@gmail.com
